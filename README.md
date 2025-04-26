@@ -1,5 +1,11 @@
 # Project Introduction
-The purpose of this repo is to get a better understanding of Angular. 
+
+The purpose of this repo is to get a better understanding of Angular.
+
+# Important Terms
+
+** ng serve ** : run the project locally
+** ng generate component component-name ** : build a new component
 
 # NgQwixx
 
